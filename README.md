@@ -118,9 +118,10 @@ python manage.py runserver
 
 ```json
 {
-  "username": "your_username",
-  "password": "your_password",
-  "email": "your_email"
+  "full_name": "first_name last_name",
+  "email": "user@gmail.com",
+  "password": "password",
+  "phone": "1236547890"
 }
 ```
 
